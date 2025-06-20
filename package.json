@@ -1,7 +1,7 @@
 {
-  "name": "tktk-module-name",
+  "name": "infrastructure-orchestration-and-mcps",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learn how to programmatically interact with live, external MCP servers and integrate them as tools into AI agents",
   "scripts": {
     "mdv": "node md-validate.js"
   },

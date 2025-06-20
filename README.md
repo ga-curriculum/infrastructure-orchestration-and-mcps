@@ -1,21 +1,20 @@
 <h1>
-  <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="prefix">Module 4.5</span>
+  <span class="headline">Infrastructure, Orchestration, and MCPs</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+Learn how to create and integrate MCP (Model Context Protocol) servers directly within Google Colab and connect them to AI agents. This hands-on module demonstrates the practical application of using MCP to extend agent capabilities with custom tools in a self-contained environment.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Concepts](./concepts/README.md)                          | 10 min | Understand MCP and in-process tool integration |
+| [Colab Environment Setup](./microlesson-01/README.md)     | 15 min | Install libraries and configure Gemini API    |
+| [MCP Integration Walkthrough](./microlesson-02/README.md) | 35 min | Build agents with custom MCP tools           |
+| **Total content**                                         | **60 min** |                                     |
 
 ## References
 
@@ -25,36 +24,23 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Basic Python programming experience
+- Understanding of AI agents (Module 4.1)
+- Google account for Colab access
+- Google Gemini API key (free tier available)
 
-### Starter code
+### Course Format
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+This is a guided code walkthrough designed for Google Colab. Students will run code cells step-by-step to build a complete MCP-enabled weather agent using:
+- Google Gemini models for AI reasoning
+- FastMCP for in-process server creation
+- Real-time weather data from Open-Meteo API
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/Infrastructure-Orchestration-and-MCPs/canvas-landing-pages/fallback.html)
 
 ### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
 🎥 [Video Hub](./internal-resources/video-hub.md)
 

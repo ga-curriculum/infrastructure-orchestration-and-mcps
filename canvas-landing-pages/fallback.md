@@ -1,26 +1,29 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
-  <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="prefix">Module 4.5</span>
+  <span class="headline">Infrastructure, Orchestration, and MCPs</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+Learn how to programmatically interact with live, external MCP servers and integrate them as tools into AI agents. This hands-on code walkthrough demonstrates the practical application of using pre-built infrastructure.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
+| [Concepts](../concepts/README.md)                          | 10 min | Understand MCP and external tool integration |
+| [MCP Environment Setup](../microlesson-01/README.md)       | 15 min | Install and configure MCP servers          |
+| [MCP Integration Walkthrough](../microlesson-02/README.md) | 35 min | Build agents with external tool access      |
+| **Total content**                                         | **60 min** |                                     |
 
-## Level Up content
+## Key Learning Outcomes
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+By the end of this module, you will be able to:
+
+- Install and configure MCP servers locally
+- Programmatically interact with MCP servers using Python
+- Create custom LangChain tools that wrap MCP functionality
+- Integrate external services into AI agents without building from scratch
+- Apply best practices for error handling and connection management
 
 ## References
 
