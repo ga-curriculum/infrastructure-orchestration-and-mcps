@@ -38,7 +38,7 @@ This is a guided code walkthrough designed for Google Colab. Students will run c
 
 ### Course landing pages
 
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/Infrastructure-Orchestration-and-MCPs/canvas-landing-pages/fallback.html)
+- [Fallback](https://ga-curriculum.github.io/Infrastructure-Orchestration-and-MCPs/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -48,4 +48,4 @@ This is a guided code walkthrough designed for Google Colab. Students will run c
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
